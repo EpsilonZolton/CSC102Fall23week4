@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(to left, grey, darkcyan); /*this changes the bakground of the page to a nice gradient*/
+    color:rebeccapurple; /*this changer the color of the text in the body*/
+}
+
+nav { /* this should place our nav so the side so that it always can be accesed however i think i forgot to setup a nav somehow ill do that later*/
+    height: 400px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer { /*make the footer look nice and pretty*/
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeImage { /*this should move around the image into place however*/
+    margin-right: 200px; /*for some reason this just isnt afecting the image and i dont know why*/
+    text-align: center;
+}
+
+
+header { /*this donesnt do anything right now*/
+    text-align: center;
+
+}
